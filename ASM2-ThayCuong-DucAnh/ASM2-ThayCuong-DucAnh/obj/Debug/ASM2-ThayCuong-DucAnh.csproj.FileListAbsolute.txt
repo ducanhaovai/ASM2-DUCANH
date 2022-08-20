@@ -1,0 +1,13 @@
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2-ThayCuong-DucAnh.csprojAssemblyReference.cache
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2_ThayCuong_DucAnh.fLogin.resources
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2_ThayCuong_DucAnh.fRegister.resources
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2_ThayCuong_DucAnh.Properties.Resources.resources
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2-ThayCuong-DucAnh.csproj.GenerateResource.cache
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2-ThayCuong-DucAnh.csproj.CoreCompileInputs.cache
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\bin\Debug\ASM2-ThayCuong-DucAnh.exe.config
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\bin\Debug\ASM2-ThayCuong-DucAnh.exe
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\bin\Debug\ASM2-ThayCuong-DucAnh.pdb
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2-ThayCuong-DucAnh.exe
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2-ThayCuong-DucAnh.pdb
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2_ThayCuong_DucAnh.fProgram.resources
+E:\asm2-thay dung\ASM2-ThayCuong-DucAnh\ASM2-ThayCuong-DucAnh\obj\Debug\ASM2_ThayCuong_DucAnh.RestPass.resources
